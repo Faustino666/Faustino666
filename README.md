@@ -48,25 +48,11 @@
 
 ## 
 
-<table>
-  <tr>
-    <td>
-      <img
-        height="400"
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ0MjdneG16bXNkOTU3NGExZDBmdW9heGIyc3pnNnVlZjl0emR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dBOHESEOYQa4/giphy.gif"
-      />
-    </td>
-    <td>
-      <img
-        height="600"
-        src="https://spotify-recently-played-readme.vercel.app/api?user=31bqo7yzkaosfgvr4ibitacvigru&unique=true"
-      />
-    </td>
-  </tr>
-</table>
+<img data-importer="image" align="right" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Nja2RiaXV2bnV3bGx4bXlwYWdteGFuN3lkeG52ZGRzN2N4N2k0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif"  />
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bqo7yzkaosfgvr4ibitacvigru&unique={true|1|on|yes})
 
 ##
-
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
