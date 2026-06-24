@@ -1,6 +1,6 @@
 <p data-importer="text" align="left">About me👋</p>
 
-###
+### <hr>
 
 <p data-importer="text" align="left">💻 Software Developer | Building Modern Web Experiences, Mobile Applications, and Interactive Systems 🚀</p>
 
