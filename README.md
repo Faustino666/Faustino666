@@ -48,7 +48,7 @@
 
 ## 
 
-<img data-importer="image" align="right" height="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhkZ2V0d2s0b3NrcHNvbWtuNXhvcGJlcHk2bnE0NG13eDNocGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif"  />
+<img data-importer="image" align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhkZ2V0d2s0b3NrcHNvbWtuNXhvcGJlcHk2bnE0NG13eDNocGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif"  />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bqo7yzkaosfgvr4ibitacvigru&unique={true|1|on|yes}) 
 
