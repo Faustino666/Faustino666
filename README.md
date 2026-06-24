@@ -8,7 +8,7 @@
 
 <p data-importer="text" align="left">I am a software developer passionate about creating innovative and functional solutions that deliver value to people and organizations. I enjoy taking on new challenges, continuously learning, and turning ideas into efficient applications, with a strong focus on quality, continuous improvement, and problem-solving through technology.</p>
 
-###
+###<hr>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
@@ -46,13 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 </div>
 
-###
+###<hr>
 
 <div data-importer="image" align="left">
   <img data-importer="image" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ0MjdneG16bXNkOTU3NGExZDBmdW9heGIyc3pnNnVlZjl0emR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dBOHESEOYQa4/giphy.gif"  />
 </div>
 
-###
+###<hr>
 
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
