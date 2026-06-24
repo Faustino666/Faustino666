@@ -48,9 +48,9 @@
 
 ## 
 
-<img data-importer="image" align="right" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Nja2RiaXV2bnV3bGx4bXlwYWdteGFuN3lkeG52ZGRzN2N4N2k0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif"  />
+<img data-importer="image" align="right" height="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhkZ2V0d2s0b3NrcHNvbWtuNXhvcGJlcHk2bnE0NG13eDNocGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjG98gMyj574A/giphy.gif"  />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bqo7yzkaosfgvr4ibitacvigru&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bqo7yzkaosfgvr4ibitacvigru&unique={true|1|on|yes}) 
 
 ##
 <div data-importer="socials" align="center">
