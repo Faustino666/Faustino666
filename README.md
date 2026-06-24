@@ -1,6 +1,6 @@
 <p data-importer="text" align="left">About me👋</p>
 
-### <hr>
+##
 
 <p data-importer="text" align="left">💻 Software Developer | Building Modern Web Experiences, Mobile Applications, and Interactive Systems 🚀</p>
 
@@ -8,7 +8,7 @@
 
 <p data-importer="text" align="left">I am a software developer passionate about creating innovative and functional solutions that deliver value to people and organizations. I enjoy taking on new challenges, continuously learning, and turning ideas into efficient applications, with a strong focus on quality, continuous improvement, and problem-solving through technology.</p>
 
-### <hr>
+##
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 </div>
 
-### <hr>
+## 
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-### <hr>
+##
 
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
