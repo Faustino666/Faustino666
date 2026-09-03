@@ -52,13 +52,6 @@
 
 ##
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faustino666&show_icons=true&theme=vue-dark" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Faustino666&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-##
-
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
