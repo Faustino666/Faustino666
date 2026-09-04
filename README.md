@@ -6,8 +6,6 @@
 
 <p data-importer="text" align="left">I am a software developer passionate about creating innovative and functional solutions that deliver value to people and organizations. I enjoy taking on new challenges, continuously learning, and turning ideas into efficient applications, with a strong focus on quality, continuous improvement, and problem-solving through technology.</p>
 
-##
-
 ## 🖥️ Frontend
 
 <div align="left">
